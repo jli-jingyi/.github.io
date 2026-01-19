@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jingyi Li"
 title_separator          : "-"
 name                     : &name "Jingyi Li"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Jingyi Li"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Math department, University of Wisconsin-Madison"
+  bio              : "Applied Math PhD student"
+  # location         : "Earth"
+  employer         : "University of Wisconsin-Madison"
   uri              : # URL
   email            : "jli2366@wisc.edu" 
 
